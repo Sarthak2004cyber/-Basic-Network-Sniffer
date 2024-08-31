@@ -1,1 +1,1 @@
-# cyber-project-1
+a tool or script in Python or C++ that analyzes the strength of passwords based on parameters like length, use of special characters, numbers, and mixed case letters. The tool can give feedback and suggest ways to improve weak passwords.
